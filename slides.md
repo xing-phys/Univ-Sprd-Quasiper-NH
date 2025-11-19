@@ -54,6 +54,7 @@ Ze-Yu, Xing
 
 
 <div class="abs-br m-6 text-xl">
+  <!-- <a href="https://xing-phys.github.io/Univ-Sprd-Quasiper-NH/" target="_blank" class="slidev-icon-btn"> -->
   <a href="https://github.com/xing-phys/Univ-Sprd-Quasiper-NH" target="_blank" class="slidev-icon-btn">
     <carbon:logo-github />
   </a>
@@ -881,5 +882,5 @@ hideInToc: true
 </div>
 
 <div class="footer">
-  <p>Presented at Group Seminar October 2025</p>
+  <p>Presented at Mid-Term Defense November 2025</p>
 </div>
