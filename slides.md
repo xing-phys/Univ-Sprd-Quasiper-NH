@@ -184,10 +184,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="624,111,88,59">
   <span style="font-size: 15px;">
 
@@ -198,10 +194,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="698,99,136,84">
   <span style="font-size: 15px;">
 
@@ -211,10 +203,6 @@ $$
 
   </span>
 </v-drag>
-
-</v-click>
-
-<v-click>
 
 <v-drag pos="610,156,239,68">
   <span style="font-size: 15px;">
@@ -269,7 +257,7 @@ Z.-Y. Xing _et al._, [Phys. Rev. B **111**, L180203 (2025)](https://link.aps.org
 
 <v-click>
 
-<v-drag pos="65,105,107,72">
+<v-drag pos="67,87,107,72">
   <span style="font-size: 20px;">
 
 $$
@@ -279,19 +267,11 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="98,168,40,106">
+<v-drag pos="101,156,40,106">
 <img src="/assets/arrow.svg"/>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="125,170,168,70">
+<v-drag pos="130,163,168,70">
   <span style="font-size: 20px;">
 
 $$
@@ -301,11 +281,7 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="70,256,247,77">
+<v-drag pos="79,245,247,77">
   <span style="font-size: 20px;">
 
 $$
@@ -315,11 +291,7 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="83,345,192,80">
+<v-drag pos="98,336,192,80">
   <span style="font-size: 16px;">
 
 $$
@@ -329,11 +301,7 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="86,419,251,92">
+<v-drag pos="80,417,251,92">
   <span style="font-size: 20px;">
 
 $$
@@ -343,11 +311,7 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="364,79,309,81">
+<v-drag pos="349,87,309,81">
   <span style="font-size: 20px;">
 
 $$
@@ -357,11 +321,7 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
-<v-drag pos="406,168,221,344">
+<v-drag pos="385,170,221,344">
   <span style="font-size: 18px;">
 
 - Superdiffusive:
@@ -388,12 +348,44 @@ $$
 <img src="/assets/Fig3-1.png"/>
 </v-drag>
 
+<v-drag pos="687,267,287,249">
+<img src="/assets/Fig3-2.png"/>
+</v-drag>
+
 </v-click>
 
 <v-click>
 
-<v-drag pos="687,267,287,249">
+<v-drag pos="401,17,583,511">
 <img src="/assets/Fig3-2.png"/>
+</v-drag>
+
+<v-drag pos="659,134,141,131">
+  <span style="font-size: 30px; color:rgb(255, 0, 0);">
+
+$$
+\delta = \frac{1}{3}
+$$
+
+  </span>
+</v-drag>
+
+<v-drag pos="664,141,137,128" style="font-size: 80px; color: transparent">
+  <span v-mark.box.red>aaa</span>
+</v-drag>
+
+<v-drag pos="445,324,141,131">
+  <span style="font-size: 30px; color:rgb(255, 0, 0);">
+
+$$
+\delta = \frac{1}{2}
+$$
+
+  </span>
+</v-drag>
+
+<v-drag pos="460,329,137,128" style="font-size: 80px; color: transparent">
+  <span v-mark.box.red>aaa</span>
 </v-drag>
 
 </v-click>
@@ -571,10 +563,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="686,400,159,91">
   <span style="font-size: 20px; color:rgb(0, 0, 255);">
 
@@ -616,9 +604,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-<v-click>
-
 <v-drag pos="51,176,273,75">
   <span style="font-size: 18px;">
 
@@ -628,10 +613,6 @@ $$
 
   </span>
 </v-drag>
-
-</v-click>
-
-<v-click>
 
 <v-drag pos="52,236,321,106">
   <span style="font-size: 18px;">
@@ -646,10 +627,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="53,305,267,112">
   <span style="font-size: 18px;">
 
@@ -660,17 +637,17 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="86,376,157,75">
 <img src="/assets/curve-arrow.svg"/>
 </v-drag>
 
-</v-click>
+<v-drag pos="147,392,54,52">
+  <span style="font-size: 16px; color:rgb(50, 50, 50); font-family: 'Bangla MN';">
 
-<v-click>
+Avila
+
+  </span>
+</v-drag>
 
 <v-drag pos="246,394,232,87">
   <span style="font-size: 14px;">
@@ -718,20 +695,27 @@ $$
 <img src="/assets/Fig4.png"/>
 </v-drag>
 
-</v-click>
+<v-drag pos="545,97,107,68">
+  <span style="font-size: 18px; color:rgb(255, 255, 0);">
 
-<v-click>
+$$
+\lvert V \rvert = 1 
+$$
 
-<v-drag pos="147,392,54,52">
-  <span style="font-size: 16px; color:rgb(50, 50, 50); font-family: 'Bangla MN';">
+  </span>
+</v-drag>
 
-Avila
+<v-drag pos="547,313,107,68">
+  <span style="font-size: 18px; color:rgb(255, 255, 0);">
+
+$$
+\lvert V \rvert = 5 
+$$
 
   </span>
 </v-drag>
 
 </v-click>
-
 
 <v-click>
 
@@ -759,6 +743,30 @@ $$
   </span>
 </v-drag>
 
+<v-drag pos="317,147,536,155">
+<div class="bg-blue-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 30px; color:rgb(255, 255, 0);">
+
+$$
+\beta = -\frac{1}{2}, \quad \delta= \frac{\beta+1}{d} = \frac{1}{2}
+$$
+
+  </span>
+</div>
+</v-drag>
+
+<v-drag pos="315,358,536,155">
+<div class="bg-blue-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 30px; color:rgb(255, 255, 0);">
+
+$$
+\beta = -\frac{1}{2}, \quad \delta= \frac{\beta+1}{d + \beta + 1} = \frac{1}{3}
+$$
+
+  </span>
+</div>
+</v-drag>
+
 </v-click>
 
 ---
@@ -783,10 +791,6 @@ Z.-Y. Xing _et al._, [Phys. Rev. B **111**, L180203 (2025)](https://link.aps.org
 <img src="/assets/FigS.png"/>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="52,341,386,90">
   <span style="font-size: 20px;">
 
@@ -797,10 +801,6 @@ $$
   </span>
 </v-drag>
 
-</v-click>
-
-<v-click>
-
 <v-drag pos="37,422,356,83">
   <span style="font-size: 20px;">
 
@@ -810,11 +810,6 @@ $$
 
   </span>
 </v-drag>
-
-</v-click>
-
-<v-click>
-
 <v-drag pos="492,333,460,101">
   <span style="font-size: 20px;">
 
@@ -824,10 +819,6 @@ $$
 
   </span>
 </v-drag>
-
-</v-click>
-
-<v-click>
 
 <v-drag pos="590,427,297,95">
   <span style="font-size: 20px;">
@@ -843,7 +834,7 @@ $$
 
 <v-click>
 
-<v-drag pos="584,58,260,73">
+<v-drag pos="509,68,260,73">
   <span style="font-size: 10px;">
 
 $$
@@ -853,18 +844,36 @@ $$
   </span>
 </v-drag>
 
-</v-click>
+<v-drag pos="747,-1,43,96,250">
+<img src="/assets/arrow.svg"/>
+</v-drag>
 
-<v-click>
+<v-drag pos="826,3,129,56">
+  <span style="font-size: 15px;">
 
-<v-drag pos="803,232,134,63">
-  <span style="font-size: 12px;">
+$$
+\beta = -0.434538
+$$
+
+  </span>
+</v-drag>
+
+<v-drag pos="787,47,166,66">
+  <span style="font-size: 15px;">
 
 $$
 \delta= \frac{\beta+1}{\beta+2} = 0.3612
 $$
 
   </span>
+</v-drag>
+
+<v-drag pos="893,67,64,45" style="font-size: 20px; color: transparent">
+  <span v-mark.box.red>aaaaa</span>
+</v-drag>
+
+<v-drag pos="791,149,64,45" style="font-size: 20px; color: transparent">
+  <span v-mark.box.red>aaaaa</span>
 </v-drag>
 
 </v-click>
