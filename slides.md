@@ -267,11 +267,11 @@ $$
   </span>
 </v-drag>
 
-<v-drag pos="101,156,40,106">
+<v-drag pos="102,149,40,106">
 <img src="/assets/arrow.svg"/>
 </v-drag>
 
-<v-drag pos="130,163,168,70">
+<v-drag pos="129,158,168,70">
   <span style="font-size: 20px;">
 
 $$
@@ -360,32 +360,56 @@ $$
 <img src="/assets/Fig3-2.png"/>
 </v-drag>
 
-<v-drag pos="659,134,141,131">
-  <span style="font-size: 30px; color:rgb(255, 0, 0);">
+<v-drag pos="681,160,139,145">
+<div class="bg-blue-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 30px; color:rgb(255, 255, 0);">
 
 $$
 \delta = \frac{1}{3}
 $$
 
   </span>
+</div>
+
 </v-drag>
 
-<v-drag pos="664,141,137,128" style="font-size: 80px; color: transparent">
-  <span v-mark.box.red>aaa</span>
-</v-drag>
-
-<v-drag pos="445,324,141,131">
-  <span style="font-size: 30px; color:rgb(255, 0, 0);">
+<v-drag pos="456,314,142,144">
+<div class="bg-blue-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 30px; color:rgb(255, 255, 0);">
 
 $$
 \delta = \frac{1}{2}
 $$
 
   </span>
+</div>
+
 </v-drag>
 
-<v-drag pos="460,329,137,128" style="font-size: 80px; color: transparent">
-  <span v-mark.box.red>aaa</span>
+<v-drag pos="481,432,100,83">
+<div class="bg-red-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 20px; color:rgb(255, 255, 0);">
+
+$$
+\delta = 1
+$$
+
+  </span>
+</div>
+
+</v-drag>
+
+<v-drag pos="727,432,100,83">
+<div class="bg-red-500/75 p-1 rounded-lg shadow-xl">
+  <span style="font-size: 20px; color:rgb(255, 255, 0);">
+
+$$
+\delta = 0
+$$
+
+  </span>
+</div>
+
 </v-drag>
 
 </v-click>
